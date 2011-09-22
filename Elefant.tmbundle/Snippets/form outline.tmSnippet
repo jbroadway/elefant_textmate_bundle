@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php
+
+\$form = new Form ('post', '$TM_SELECTED_TEXT');
+
+if (\$form-&gt;submit ()) {
+	// handle
+	
+} else {
+	\$obj = new StdClass;
+	// assign defaults
+	\$obj = \$form-&gt;merge_values (\$obj);
+	\$obj-&gt;failed = \$form-&gt;failed;
+
+	echo \$tpl-&gt;render ('$TM_SELECTED_TEXT', \$obj);
+}
+
+?&gt;</string>
+	<key>name</key>
+	<string>form outline</string>
+	<key>uuid</key>
+	<string>C350D870-17E1-4935-86E6-20172E881515</string>
+</dict>
+</plist>

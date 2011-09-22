@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>if (! User::require_admin ()) {
+	\$this-&gt;redirect ('/admin');
+}
+
+</string>
+	<key>name</key>
+	<string>user require_admin</string>
+	<key>uuid</key>
+	<string>FF1446D1-FC58-4088-9111-B6430AD24C07</string>
+</dict>
+</plist>

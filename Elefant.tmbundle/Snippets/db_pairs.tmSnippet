@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$res = db_pairs ('$TM_SELECTED_TEXT');</string>
+	<key>name</key>
+	<string>db_pairs</string>
+	<key>uuid</key>
+	<string>88BB88AE-3CE5-40E2-95E0-16AFEAA1E41F</string>
+</dict>
+</plist>

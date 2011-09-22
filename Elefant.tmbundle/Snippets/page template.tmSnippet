@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$page-&gt;template = '$TM_SELECTED_TEXT';</string>
+	<key>name</key>
+	<string>page template</string>
+	<key>uuid</key>
+	<string>5B7E0DE6-FDDC-42C2-B0A5-B6AF17B9234F</string>
+</dict>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php
+
+\$page-&gt;template = false;
+
+\$error = false;
+
+switch (\$this-&gt;request_method ()) {
+	case 'GET':
+		
+		break;
+	case 'POST':
+		break;
+	case 'PUT':
+		\$data = \$this-&gt;get_put_data ();
+		break;
+	case 'DELETE':
+		break;
+}
+
+\$res = new StdClass;
+if (\$error) {
+	\$res-&gt;success = false;
+	\$res-&gt;error = \$error;
+} else {
+	\$res-&gt;success = true;
+	\$res-&gt;data = \$out;
+}
+
+echo json_encode (\$res);
+
+?&gt;</string>
+	<key>name</key>
+	<string>rest outline</string>
+	<key>uuid</key>
+	<string>5C443B95-432B-4D33-B8D7-7422CD528CB7</string>
+</dict>
+</plist>

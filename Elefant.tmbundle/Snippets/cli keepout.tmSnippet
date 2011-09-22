@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>if (! \$this-&gt;cli) {
+	die ('Must be run from cli');
+}
+
+</string>
+	<key>name</key>
+	<string>cli keepout</string>
+	<key>uuid</key>
+	<string>0FCA6506-7618-47C2-965F-74758F422F11</string>
+</dict>
+</plist>

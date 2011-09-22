@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>if (! $TM_SELECTED_TEXT) {
+	echo \$this-&gt;error (404, '', '');
+	return;
+}</string>
+	<key>name</key>
+	<string>this error</string>
+	<key>uuid</key>
+	<string>BC47B8D2-CC3B-49F0-9055-12B95203D3EC</string>
+</dict>
+</plist>

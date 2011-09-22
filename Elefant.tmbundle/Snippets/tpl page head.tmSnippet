@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{ head|none }}</string>
+	<key>name</key>
+	<string>tpl page head</string>
+	<key>uuid</key>
+	<string>E61D321A-1539-44D8-A617-8DAAF13135FF</string>
+</dict>
+</plist>

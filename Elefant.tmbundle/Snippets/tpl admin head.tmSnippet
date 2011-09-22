@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{! admin/head !}</string>
+	<key>name</key>
+	<string>tpl admin head</string>
+	<key>uuid</key>
+	<string>FCF763DB-903E-413A-AF67-DC5B2CF67A61</string>
+</dict>
+</plist>

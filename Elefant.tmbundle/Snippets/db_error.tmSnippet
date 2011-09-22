@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$error = db_error ();</string>
+	<key>name</key>
+	<string>db_error</string>
+	<key>uuid</key>
+	<string>95F18CE8-7247-421F-873F-198C6C70EBCB</string>
+</dict>
+</plist>

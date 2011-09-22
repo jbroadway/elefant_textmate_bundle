@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$res = $TM_SELECTED_TEXT::query ()
+	-&gt;where ()
+	-&gt;fetch_field ();</string>
+	<key>name</key>
+	<string>model fetch_field</string>
+	<key>uuid</key>
+	<string>2C2962CB-2815-4DCE-B80D-95763211E15B</string>
+</dict>
+</plist>

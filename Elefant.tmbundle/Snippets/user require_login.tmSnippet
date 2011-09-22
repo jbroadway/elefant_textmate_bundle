@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>if (! User::require_login ()) {
+	\$page-&gt;title = i18n_get ('Members');
+	echo \$this-&gt;run ('user/login');
+	return;
+}
+
+</string>
+	<key>name</key>
+	<string>user require_login</string>
+	<key>uuid</key>
+	<string>582712F0-822F-41FF-A501-77C7467B72B5</string>
+</dict>
+</plist>

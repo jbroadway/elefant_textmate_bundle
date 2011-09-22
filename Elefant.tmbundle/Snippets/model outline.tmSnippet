@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php
+
+class $TM_SELECTED_TEXT extends Model {}
+
+?&gt;</string>
+	<key>name</key>
+	<string>model outline</string>
+	<key>uuid</key>
+	<string>968A723E-3F9D-4674-A048-9B06E0873169</string>
+</dict>
+</plist>

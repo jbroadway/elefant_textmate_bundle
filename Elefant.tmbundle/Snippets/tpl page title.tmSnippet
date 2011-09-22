@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{% if title %}&lt;h1&gt;{{ title }}&lt;/h1&gt;{% end %}</string>
+	<key>name</key>
+	<string>tpl page title</string>
+	<key>uuid</key>
+	<string>A092F10B-31FE-4718-A2BA-A19C2B48AAC1</string>
+</dict>
+</plist>

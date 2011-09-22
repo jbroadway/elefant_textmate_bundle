@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>if (! \$this-&gt;internal) {
+	die ('Must be called by another handler');
+}
+
+</string>
+	<key>name</key>
+	<string>internal keepout</string>
+	<key>uuid</key>
+	<string>AC719E85-18D3-4D0D-A4CA-92751825431F</string>
+</dict>
+</plist>

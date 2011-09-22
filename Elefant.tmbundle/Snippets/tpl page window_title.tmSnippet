@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;title&gt;{{ conf ('General', 'site_name') }} - {{ window_title }}&lt;/title&gt;</string>
+	<key>name</key>
+	<string>tpl page window_title</string>
+	<key>uuid</key>
+	<string>3D53E842-A9E1-444E-B2FF-F56ACC0B3A2A</string>
+</dict>
+</plist>
